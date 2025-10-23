@@ -28,7 +28,6 @@ void simulate_new_day();
 void show_accounts_summary();
 double compute_interest_preview(double balance, double monthly_rate_percent);
 
-// getter supaya bisa diakses dari main.c
 int get_account_count();
 Account* get_accounts();
 
