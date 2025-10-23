@@ -17,6 +17,10 @@ Build / Compile:
 1. Open terminal in project folder.
 2. Run: make
    (or: gcc *.c -o bank)
+3. For Windows can install package in winget
+   `winget install GnuWin32.Make`
+4. For LInux can install via apt
+   `sudo apt install build-essential -y`
 
 Run:
 ./bank
