@@ -1,0 +1,16 @@
+# Ignore binary/executable file
+bank
+
+# Ignore object files (hasil compile)
+*.o
+
+# Ignore backup/temp files
+*~
+*.swp
+
+# Ignore system files (Linux/Mac)
+.DS_Store
+Thumbs.db
+
+# Optional: jika kamu pakai VSCode
+.vscode/
